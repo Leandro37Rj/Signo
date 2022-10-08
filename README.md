@@ -1,2 +1,2 @@
-# Signo
-Descubra seu Signo
+<1>Os Signos</h1>
+<h2>Descubra seu Signo</h2>
