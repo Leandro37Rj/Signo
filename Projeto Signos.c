@@ -9,7 +9,7 @@ int main()
         printf("       ### Descubra seu Signo ###\n        ♑♐♏♎♍♌♋♊♉♒♈♓ ");
         printf("\n\n\n  ## Digite o Dia do seu Aniversário ##                  ");
          scanf("%i", &dia);
-        printf("\n\n  ## Digite o mês ## : ");
+        printf("\n\n  ## Digite o mês do seu Aniversário ##      ");
          scanf("%i", &mês);
          
     
